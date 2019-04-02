@@ -9,3 +9,10 @@ require('imports-loader?$=jquery!./quer.js')
 ```
 require('exports-loader?window.FANGFA!./quer.js')
 ```
+### 使用
+```
+yarn serve
+
+使用浏览器打开inde.html文件即可
+```
+
